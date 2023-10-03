@@ -1,15 +1,15 @@
-ddr-finder
+rcades.icu
 ==========
 
-HTML5 DDR Locator Application (targeted at Mobile); could be modified into a general location finder.
+HTML5 DDR Locator Progressive Web Application modified into a general location finder.
 
 Live Demo
 ---------
-The official working demo is at https://ddrfinder.andrew67.com/, using data snapshots from multiple sources.
+There is currently no live demo, the website rcades.icu currently redirects to Z-i-v's arcade database page
 
 UI
 --
-Using Metro UI responsive CSS; see https://metroui.org.ua/.
+TBD.
 
 License
 -------
